@@ -1,4 +1,4 @@
-# my_projects_reports
+# my_projects
 
 This repository contains a collection of reports related to some academic and professional projects I have worked on. The contents include insights from projects in Data Science, Computer Vision, and Machine Learning for IoT, as well as a summary of my Master’s Thesis.
 
